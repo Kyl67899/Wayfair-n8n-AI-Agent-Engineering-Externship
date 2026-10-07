@@ -5,21 +5,21 @@ Wayfair Internship - AI Automation Engineer - Extern Core Projects
 - Tech stack: n8n and AI or LLM
 - Description:
 
-### Project 2: Discovering market demand and trends across products, blogs, and social media
+### Project 2: Discovering Market Demand and Trends Across Products, Blogs, and Social Media
 - Level: Medium
 - Tech stack: n8n and AI or LLM
 - Description:
   - Google Docs: https://docs.google.com/document/d/1y27bot3OTBOwsa_7k50HRN5ef1Y82OS9eWZPa7-gMpQ/edit?usp=sharing
   - Loom Video: https://www.loom.com/share/9f1010b088364d14b242afd497194d42
 
-### Project 3: Benchmarking competitors to find whitespace opportunities
+### Project 3: Benchmarking Competitors to find Whitespace Opportunities
 - Level: Medium
 - Tech stack: n8n and AI or LLM
 - Description:
   - Google Docs: https://docs.google.com/document/d/1LtzChW81r2xWH9tWFZ4Ga_iLp1SmyqZH0JjKV1QTalQ/edit?usp=sharing
   - Loom video: Coming Soon
 
-### Project 4: Generating AI-driven insights and marketing content ideas
+### Project 4: Generating AI-driven Insights and Marketing Content Ideas
 - Level: Medium
 - Tech stack: n8n and AI or LLM
 - Description:
