@@ -1,4 +1,4 @@
-#### Wayfair Internship - AI Automation Engineer - Extern Core Projects 
+## Wayfair Internship - AI Automation Engineer - Extern Core Projects 
 
 ### Project 1: Creating a Moodboard Agent that connects design ideas to visuals
 - Level: Easy
